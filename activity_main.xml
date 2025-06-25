@@ -1,0 +1,7 @@
+<LinearLayout ...>
+    <Button android:id="@+id/btnNewVm" ... />
+    <ListView android:id="@+id/vmList" ... />
+    <com.qemuhypergui.TerminalView ... />
+    <com.qemuhypergui.DisplayView ... />
+    <Button android:id="@+id/btnSnapshot" ... />
+</LinearLayout>
